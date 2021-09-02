@@ -60,5 +60,4 @@ Open browser and go to `http://localhost:3000` to view the application.
 - React for client side
 
 ## Visit
-* [YouTube Demonstration](https://www.youtube.com/watch?v=Q8lC6du36Cw)
 * [Website link](https://floating-gorge-21434.herokuapp.com/)
